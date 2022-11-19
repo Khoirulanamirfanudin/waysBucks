@@ -1,0 +1,139 @@
+.navbar{
+    background-color: white;
+    height: 90px;
+}
+
+.navbar button{
+    display: inline;
+    justify-content: space-between;
+    width: 100px;
+  
+}
+
+.jumbo{
+position: absolute;
+width: 1072px;
+height: 400px;
+left: 184px;
+top: 181px;
+}
+
+.letsOrder{
+position: absolute;
+width: 250px;
+height: 49px;
+left: 196px;
+top: 619px;
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 49px;
+color: #BD0707;
+
+}
+
+.LetsOrder{
+    position: absolute;
+    top: 700px;
+    left: 196px;
+}
+
+.LetsOrder .card{
+    background-color: #F7DADA;;
+}
+
+.LetsOrder .card-title{
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: left;
+    color: #BD0707;
+}
+
+.LetsOrder .card-text{
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #974A4A;
+    text-align: left;
+}
+
+.jumboContainer {
+    position: relative;
+    margin: 30px auto 20px;
+    width: 1072px;
+    height: 400px;
+}
+
+.jumboRect {
+    width: 958px;
+    height: 400px;
+}
+
+.jumboImg {
+    position: absolute;
+    left: 620px;
+    top: 40px;
+}
+
+.jumboTitle {
+    position: absolute;
+    left: 50px;
+    top: 100px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 65px;
+    color: white;
+}
+
+.jumboSubTitle {
+    color: white;
+    position: absolute;
+    left: 50px;
+    top: 175px;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 33px;
+}
+
+.jumboDescription {
+    position: absolute;
+    width: 469px;
+    height: 125px;
+    left: 50px;
+    top: 230px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Order{
+    position: relative;
+    margin: 30px auto 20px;
+    width: 1072px;
+    height: 50px;
+    color: #BD0707;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.popover{
+
+    width: 200px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+

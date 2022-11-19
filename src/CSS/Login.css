@@ -20,8 +20,17 @@
   .modal p{
     text-align: center;
     margin-top: 30px;
+    
   }
 
-  .modal span {
-    font-weight: bold;
+  .modal p button{
+    text-decoration: none;
+    color: black;
   }
+
+  .modal p span{
+    font-weight: bolder;
+  }
+  
+
+  
