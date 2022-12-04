@@ -5,9 +5,11 @@ import { Stack } from "react-bootstrap";
 import CardProduct from "../components/CardProduct";
 import Container from 'react-bootstrap/Container';
 import '../CSS/Index.css'
-const Home = (props) =>{
+import NavbarBucks from "../components/NavbarBucks";
+const Home = () =>{
     return(
     <>
+    <NavbarBucks/>
    
     <Stack direction="horizontal" gap={3}>
       <div className="jumboContainer">
